@@ -54,3 +54,5 @@ UPDATE logement set prix = (730) where idLogement = 5246;
 14.41 - Afficher la liste des personnes avec le logement qu'elles vendent, ou la demande de logement qu'elles recherchent.
 
 15.42 - Afficher la liste des personnes ayant à la fois un logement à vendre ou louer et une demande d'achat ou de location.
+
+hello world
